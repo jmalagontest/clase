@@ -1,0 +1,2 @@
+# clase
+ejemplo de clase
